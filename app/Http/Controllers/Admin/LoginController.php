@@ -35,4 +35,6 @@ class LoginController extends Controller
        // notify()->error('خطا في البيانات  برجاء المجاولة مجدا ');
         return redirect()->back()->with(['error' => 'هناك خطا بالبيانات']);
     }
+
+    
 }
