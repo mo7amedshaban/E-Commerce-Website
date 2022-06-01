@@ -26,8 +26,10 @@ function uploadImage($folder, $image)
 
 
 
-
-
+# i delet it from composer for install heroku
+// ,"files" : [
+//     "App/Helpers/General.php"
+// ]
 
 
 
