@@ -38,8 +38,8 @@ Follow these steps to run the project locally on your machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mo7amedshaban/e-commerce.git
-cd e-commerce
+https://github.com/mo7amedshaban/E-Commerce-Website.git
+cd E-Commerce-Website
 ```
 
 2. Install PHP Dependencies
